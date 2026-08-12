@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=61AFEF&center=true&vcenter=true&width=600&lines=Hi+there!+I'm+Vidhan+Nahar+👋;Full-Stack+Developer+%26+Tech+Enthusiast;Building+innovative+software+solutions;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=61AFEF&center=true&vcenter=true&width=600&lines=Hi+there!+I%27m+Vidhan+Nahar+%F0%9F%91%8B;Full-Stack+Developer+%26+Tech+Enthusiast;Building+innovative+software+solutions;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 ---
-
+<!-- 
 ### 💫 About Me
 
 ```javascript
@@ -30,7 +30,7 @@ const vidhan = {
     currentFocus: "Building scalable web applications and exploring AI integration",
     funFact: "I turn coffee ☕ into clean, efficient code 💻"
 };
-```
+``` -->
 
 - 🔭 **Currently Working On:** Personal projects and open-source contributions
 - 🌱 **Currently Learning:** Advanced Cloud Architecture & System Design
@@ -95,7 +95,7 @@ const vidhan = {
 
 ---
 
-### 📌 Featured Projects
+<!-- ### 📌 Featured Projects
 
 | Project Name | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :---: |
@@ -103,7 +103,7 @@ const vidhan = {
 | ⚡ **Full-Stack SaaS Platform** | Scalable web application featuring user auth, payments, & analytics dashboard | `Next.js` `Node.js` `PostgreSQL` | 🟡 In Progress |
 | 🛠️ **Dev Utility CLI** | Developer tool created to automate setup workflows and tasks | `TypeScript` `Node.js` | 🟢 Active |
 
----
+--- -->
 
 ### 🤝 Connect With Me
 
