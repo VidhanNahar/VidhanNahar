@@ -15,7 +15,7 @@
 </p>
 
 ---
-<!-- 
+
 ### 💫 About Me
 
 ```javascript
@@ -30,7 +30,7 @@ const vidhan = {
     currentFocus: "Building scalable web applications and exploring AI integration",
     funFact: "I turn coffee ☕ into clean, efficient code 💻"
 };
-``` -->
+```
 
 - 🔭 **Currently Working On:** Personal projects and open-source contributions
 - 🌱 **Currently Learning:** Advanced Cloud Architecture & System Design
@@ -61,7 +61,7 @@ const vidhan = {
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-#### **Databases & DevOps Tools**
+#### **Databases & DevOps**
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -90,20 +90,9 @@ const vidhan = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VidhanNahar&theme=tokyonight&hide_border=false" alt="Vidhan's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=VidhanNahar&theme=tokyonight&hide_border=false" alt="Vidhan's GitHub Streak" />
 </div>
 
----
-
-<!-- ### 📌 Featured Projects
-
-| Project Name | Description | Tech Stack | Status |
-| :--- | :--- | :--- | :---: |
-| 🚀 **Portfolio Web App** | Modern personal developer portfolio featuring dark mode & sleek animations | `React` `Tailwind` `Vite` | 🟢 Active |
-| ⚡ **Full-Stack SaaS Platform** | Scalable web application featuring user auth, payments, & analytics dashboard | `Next.js` `Node.js` `PostgreSQL` | 🟡 In Progress |
-| 🛠️ **Dev Utility CLI** | Developer tool created to automate setup workflows and tasks | `TypeScript` `Node.js` | 🟢 Active |
-
---- -->
 
 ### 🤝 Connect With Me
 
@@ -111,13 +100,10 @@ const vidhan = {
   <a href="https://linkedin.com/in/vidhannahar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- <a href="mailto:vidhannahar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a> -->
 </p>
 
 ---
 
 <div align="center">
-  <sub>Designed & Developed with  by <b>Vidhan Nahar</b></sub>
+  <sub>Designed & Developed with ❤️ by <b>Vidhan Nahar</b></sub>
 </div>
