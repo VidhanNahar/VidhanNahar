@@ -71,7 +71,7 @@ const vidhan = {
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
-
+<!-- 
 ---
 
 ### 📊 GitHub Statistics
@@ -91,7 +91,7 @@ const vidhan = {
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=VidhanNahar&theme=tokyonight&hide_border=false" alt="Vidhan's GitHub Streak" />
-</div>
+</div> -->
 
 
 ### 🤝 Connect With Me
