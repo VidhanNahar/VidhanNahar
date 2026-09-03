@@ -1,109 +1,246 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=61AFEF&center=true&vcenter=true&width=600&lines=Hi+there!+I%27m+Vidhan+Nahar+%F0%9F%91%8B;Full-Stack+Developer+%26+Tech+Enthusiast;Building+innovative+software+solutions;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
-</div>
 
-<p align="center">
-  <a href="https://github.com/VidhanNahar">
-    <img src="https://img.shields.io/github/followers/VidhanNahar?label=Followers&style=for-the-badge&color=61afef&logo=github" alt="GitHub Followers">
-  </a>
-  <a href="https://github.com/VidhanNahar?tab=repositories">
-    <img src="https://img.shields.io/github/stars/VidhanNahar?label=Stars&style=for-the-badge&color=e5c07b&logo=github" alt="GitHub Stars">
-  </a>
-  <a href="https://github.com/VidhanNahar">
-    <img src="https://img.shields.io/github/repo-size/VidhanNahar/VidhanNahar?label=Profile%20Size&style=for-the-badge&color=98c379&logo=github" alt="Profile Size">
-  </a>
-</p>
+  # 👨‍💻 Vidhan Nahar
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vcenter=true&width=650&lines=CS+Undergrad+%40+Ahmedabad+University;Software+Engineer+Intern+%40+Weekmate;Distributed+Systems+%26+Backend+Dev;Competitive+Programmer+(LeetCode+1831+%7C+CF+Pupil);Building+Scalable+%26+Fault-Tolerant+Systems)](https://git.io/typing-svg)
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=VidhanNahar&label=Profile%20Views&color=61afef&style=for-the-badge" alt="Profile Views" />
+  </p>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/vidhannahar" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:vidhannahar@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/VidhanNahar">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://leetcode.com/u/vidhannahar/">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+    <a href="https://codeforces.com/profile/vidhannahar">
+      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+    </a>
+    <a href="https://www.codechef.com/users/vidhannahar">
+      <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+    </a>
+  </p>
+
+</div>
 
 ---
 
 ### 💫 About Me
 
-```javascript
-const vidhan = {
-    code: ["JavaScript", "TypeScript", "Python", "C++", "HTML/CSS"],
-    technologies: {
-        frontend: ["React", "Next.js", "Tailwind CSS", "Redux"],
-        backend: ["Node.js", "Express", "REST APIs", "GraphQL"],
-        database: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-        devops: ["Git", "Docker", "Linux", "Vercel", "GitHub Actions"]
-    },
-    currentFocus: "Building scalable web applications and exploring AI integration",
-    funFact: "I turn coffee ☕ into clean, efficient code 💻"
-};
+I am a Computer Science & Engineering undergraduate at **Ahmedabad University** (CGPA: 8.75/10.00) with hands-on experience in building distributed systems, scalable enterprise backend architectures, and machine learning pipelines.
+
+- 💼 **Former Software Engineer Intern** at **Weekmate**, where I built enterprise SaaS modules (VMS & ATS), optimized database queries by 35%, and engineered real-time systems.
+- ⚡ **Passionate about:** Distributed Systems, Consensus Algorithms (Raft), High-Throughput Microservices (gRPC/Go), and Algorithmic Problem Solving.
+- 👨‍🏫 **Mentorship & Leadership:** TA for Data Structures & Algorithms (mentored 190+ students) and Competitive Programming Committee lead.
+- 🏆 **Problem Solver:** Solved **1,000+ algorithmic problems** across LeetCode (1831 max), Codeforces (Pupil 1242), and CodeChef (2-Star 1513).
+
+```go
+package main
+
+type SoftwareEngineer struct {
+    Name        string
+    Education   string
+    Interests   []string
+    CurrentGoal string
+}
+
+func main() {
+    vidhan := SoftwareEngineer{
+        Name:        "Vidhan Nahar",
+        Education:   "B.Tech CSE @ Ahmedabad University (2023 - 2027)",
+        Interests:   []string{"Distributed Systems", "Backend Architecture", "Competitive Programming", "Machine Learning"},
+        CurrentGoal: "Designing fault-tolerant, high-performance distributed backend infrastructure",
+    }
+}
 ```
 
-- 🔭 **Currently Working On:** Personal projects and open-source contributions
-- 🌱 **Currently Learning:** Advanced Cloud Architecture & System Design
-- 💡 **Interests:** Web Development, Open Source, UI/UX Design, Artificial Intelligence
-- 💬 **Ask Me About:** React, Node.js, Web Architecture, JavaScript performance
-- ⚡ **Fun Fact:** When I'm not coding, I'm probably listening to music or exploring new tech trends!
+---
+
+### 🛠️ Technical Skills
+
+<table>
+  <tr>
+    <td width="20%"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Golang" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend & Frameworks</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white" alt="gRPC" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React.js" />
+      <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io" />
+      <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases & Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Concepts & Practices</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Raft_Consensus-blue?style=flat-square" alt="Raft" />
+      <img src="https://img.shields.io/badge/Distributed_Systems-68217A?style=flat-square" alt="Distributed Systems" />
+      <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-brightgreen?style=flat-square" alt="DSA" />
+      <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+      <img src="https://img.shields.io/badge/RBAC_&_JWT-orange?style=flat-square" alt="Security" />
+      <img src="https://img.shields.io/badge/Unit_Testing-critical?style=flat-square" alt="Testing" />
+      <img src="https://img.shields.io/badge/CI%2FCD_&_Agile-informational?style=flat-square" alt="CI/CD" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 💼 Work Experience
 
-#### **Languages & Core**
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+#### **Software Engineer Intern** — **Weekmate** *(May 2026 – Jul 2026 | Ahmedabad)*
+- **Enterprise SaaS Applications:** Initiated & maintained two enterprise platforms: **Visitor Management System (VMS)** and **Asset Tracking System (ATS)** using `Node.js`, `Express.js`, `MongoDB`, `React.js`, `Socket.io`, and `Docker`.
+- **Backend Architecture & Security:** Built scalable RESTful services with JWT authentication, Role-Based Access Control (RBAC) across multiple user roles, and real-time event pipelines via Socket.io.
+- **Enterprise Automation & Health:** Developed dynamic form configurations, CSV exports, audit logging, and automated `Node-Cron` reporting, cutting manual reporting overhead by **30%**.
+- **Performance Optimization:** Boosted API & database performance by **35%** via backend pagination, indexed search queries, and request validation over **10,000+** records.
+- **Quality Assurance:** Authored comprehensive unit and integration test suites for RESTful APIs to prevent regressions.
 
-#### **Frameworks & Libraries**
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-#### **Databases & DevOps**
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
-<!-- 
 ---
 
-### 📊 GitHub Statistics
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🛡️ SecureOrder</h4>
+      <i>MEV-Resistant Distributed Transaction Sequencer</i>
+      <br/><br/>
+      <b>Tech:</b> <code>Go</code>, <code>C++17</code>, <code>gRPC</code>, <code>Raft</code>, <code>Solidity</code>, <code>AWS</code>
+      <br/><br/>
+      • Built a fault-tolerant Go sequencing service with <b>Raft consensus</b> and <b>gRPC</b>, processing <b>1M+ concurrent requests</b> across a 5-node AWS cluster.<br/>
+      • Integrated <b>C++17 (NaCl/libsodium)</b> encryption & Solidity smart contracts to eliminate front-running & sandwich attacks.<br/>
+      • Achieved <b>3,000+ req/s</b> with <b>95%+ uptime</b> via replicated state management & automatic leader election.
+    </td>
+    <td width="33%" valign="top">
+      <h4>🛰️ Offline Multi-Object Tracking</h4>
+      <i>UAV Trajectory Reconstruction System</i>
+      <br/><br/>
+      <b>Tech:</b> <code>Python</code>, <code>OpenCV</code>, <code>Scikit-learn</code>, <code>NumPy</code>, <code>Pandas</code>
+      <br/><br/>
+      • Engineered an offline MOT pipeline for UAV video streams, recovering tracks across <b>40% simulated frame drops</b>.<br/>
+      • Designed a hybrid prediction model combining <b>Kalman Filter</b>, Random Forest, and interpolation (+20% continuity).<br/>
+      • Implemented tracklet association (velocity, centroid distance, IoU), achieving <b>75% accuracy</b> and a <b>0.72 HOTA score</b> on VisDrone.
+    </td>
+    <td width="33%" valign="top">
+      <h4>🗓️ Timetable Scheduler</h4>
+      <i>Automated CSP & DSL Scheduling Engine</i>
+      <br/><br/>
+      <b>Tech:</b> <code>JavaScript</code>, <code>MongoDB</code>, <code>AWS</code>
+      <br/><br/>
+      • Formulated timetable allocation as a <b>Constraint Satisfaction Problem (CSP)</b> with greedy optimization for <b>2,000+ students</b> and <b>50+ faculty</b>.<br/>
+      • Created a <b>Domain-Specific Language (DSL)</b> to encode nuanced professor preferences and room constraints.<br/>
+      • Systematically resolved <b>100+ conflicts per run</b> using rule-based resolution algorithms.
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏆 Competitive Programming & Achievements
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://leetcode.com/u/vidhannahar/">
+          <img src="https://img.shields.io/badge/LeetCode-1831_Max_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Rating" /><br/>
+          <b>490+ Problems Solved</b>
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://codeforces.com/profile/vidhannahar">
+          <img src="https://img.shields.io/badge/Codeforces-Pupil_(1242)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Pupil" /><br/>
+          <b>575+ Problems Solved</b>
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://www.codechef.com/users/vidhannahar">
+          <img src="https://img.shields.io/badge/CodeChef-2★_(1513_Max)-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 2-Star" /><br/>
+          <b>Contest Participant</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+  <p><b>🔥 1,000+ Data Structures & Algorithms problems solved across all platforms</b></p>
+</div>
+
+---
+
+### 👥 Leadership & Mentorship
+
+- 👨‍🏫 **Teaching Assistant (Data Structures & Algorithms)** — *Ahmedabad University (Aug 2025 – Dec 2025)*  
+  Mentored **190+ students** in core DSA concepts, conducted weekly lab sessions, tutorials, and guided problem-solving strategies.
+- 🎯 **Competitive Programming Committee Member** — *Programming Club (Aug 2025 – May 2026)*  
+  Directed a team of **20+ members** across contest problem setting, test case generation, difficulty balancing, and editorial preparation.
+- 🤝 **Student Placement Committee Member** — *Ahmedabad University (Mar 2025 – Present)*  
+  Coordinate placement operations, company drives, and recruitment logistics for **80+ students**.
+
+---
+
+### 📊 GitHub Activity & Stats
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VidhanNahar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Vidhan's GitHub Stats" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VidhanNahar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Vidhan's GitHub Stats" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidhanNahar&layout=compact&theme=tokyonight&hide_border=false" alt="Vidhan's Most Used Languages" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidhanNahar&layout=compact&theme=tokyonight&hide_border=true" alt="Vidhan's Most Used Languages" />
       </td>
     </tr>
   </table>
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=VidhanNahar&theme=tokyonight&hide_border=true" alt="Vidhan's GitHub Streak" />
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=VidhanNahar&theme=tokyonight&hide_border=false" alt="Vidhan's GitHub Streak" />
-</div> -->
-
-
-### 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/vidhannahar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
 
 ---
 
-<div align="center">
-  <sub>Designed & Developed with ❤️ by <b>Vidhan Nahar</b></sub>
-</div>
+### 📬 Get In Touch
+
+<p align="center">
+  <a href="https://linkedin.com/in/vidhannahar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:vidhannahar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/VidhanNahar">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
