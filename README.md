@@ -42,26 +42,6 @@ I am a Computer Science & Engineering undergraduate at **Ahmedabad University** 
 - 👨‍🏫 **Mentorship & Leadership:** TA for Data Structures & Algorithms (mentored 190+ students) and Competitive Programming Committee lead.
 - 🏆 **Problem Solver:** Solved **1,000+ algorithmic problems** across LeetCode (1831 max), Codeforces (Pupil 1242), and CodeChef (2-Star 1513).
 
-```go
-package main
-
-type SoftwareEngineer struct {
-    Name        string
-    Education   string
-    Interests   []string
-    CurrentGoal string
-}
-
-func main() {
-    vidhan := SoftwareEngineer{
-        Name:        "Vidhan Nahar",
-        Education:   "B.Tech CSE @ Ahmedabad University (2023 - 2027)",
-        Interests:   []string{"Distributed Systems", "Backend Architecture", "Competitive Programming", "Machine Learning"},
-        CurrentGoal: "Designing fault-tolerant, high-performance distributed backend infrastructure",
-    }
-}
-```
-
 ---
 
 ### 🛠️ Technical Skills
@@ -209,20 +189,9 @@ func main() {
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Activity
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VidhanNahar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Vidhan's GitHub Stats" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidhanNahar&layout=compact&theme=tokyonight&hide_border=true" alt="Vidhan's Most Used Languages" />
-      </td>
-    </tr>
-  </table>
-  <br/>
   <img src="https://streak-stats.demolab.com/?user=VidhanNahar&theme=tokyonight&hide_border=true" alt="Vidhan's GitHub Streak" />
 </div>
 
