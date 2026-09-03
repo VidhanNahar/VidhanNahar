@@ -2,7 +2,7 @@
 
   # 👨‍💻 Vidhan Nahar
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vcenter=true&width=650&lines=CS+Undergrad+%40+Ahmedabad+University;Software+Engineer+Intern+%40+Weekmate;Distributed+Systems+%26+Backend+Dev;Competitive+Programmer+(LeetCode+1831+%7C+CF+Pupil);Building+Scalable+%26+Fault-Tolerant+Systems)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vcenter=true&width=650&lines=CS+Undergrad+%40+Ahmedabad+University;Distributed+Systems+%26+Backend+Dev)](https://git.io/typing-svg)
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=VidhanNahar&label=Profile%20Views&color=61afef&style=for-the-badge" alt="Profile Views" />
